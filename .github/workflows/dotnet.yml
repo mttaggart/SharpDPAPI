@@ -30,9 +30,9 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: SharpDPAPI.exe
-        path: D:\a\SharpDPAPI\S\SharpDPAPI\bin\Release\SharpDPAPI.exe
+        path: D:\a\SharpDPAPI\SharpDPAPI\SharpDPAPI\bin\Release\SharpDPAPI.exe
     - name: Upload Chrome 
       uses: actions/upload-artifact@v2
       with:
         name: SharpChrome.exe
-        path: D:\a\SharpChrome\S\SharpChrome\bin\Release\SharpChrome.exe
+        path: D:\a\SharpDPAPI\SharpChrome\SharpChrome\bin\Release\SharpChrome.exe
