@@ -1,6 +1,6 @@
 # This is a template GitHub Action YAML file for building .NET projects. 
 # Handy for forking .NET assembly projects and building easily without VS.
-# Make sure to replace "MyAssembly" with the name of the project!
+# Make sure to replace "MyAssembly" with the name of the project!!
 name: .NET
 
 on:
